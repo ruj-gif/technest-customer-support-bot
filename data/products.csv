@@ -1,0 +1,10 @@
+product_id,product_name,category,price_inr,stock_status,warranty,description
+TN-LAP-101,TechNest AeroBook 14,Laptop,54990,In stock,12-month manufacturer warranty,14-inch Full HD laptop with 16 GB RAM and 512 GB SSD
+TN-PHN-102,TechNest Nova X,Smartphone,24990,In stock,12-month manufacturer warranty,6.5-inch smartphone with 128 GB storage and 5G connectivity
+TN-AUD-103,TechNest SoundPods,Audio,2990,In stock,12-month manufacturer warranty,True wireless earbuds with charging case and touch controls
+TN-HDP-104,TechNest Studio Headphones,Audio,4990,Low stock,12-month manufacturer warranty,Over-ear wireless headphones with foldable design and built-in microphone
+TN-TAB-105,TechNest Tab 10,Tablet,18990,In stock,12-month manufacturer warranty,10-inch Wi-Fi tablet with 64 GB storage and stereo speakers
+TN-WAT-106,TechNest Pulse Watch,Wearable,6990,In stock,12-month manufacturer warranty,Water-resistant fitness watch with heart-rate tracking and sleep summaries
+TN-MON-107,TechNest View 24,Monitor,11990,Low stock,12-month manufacturer warranty,24-inch Full HD monitor with HDMI input and adjustable tilt stand
+TN-SPK-108,TechNest RoomBeat Speaker,Audio,3990,In stock,12-month manufacturer warranty,Portable Bluetooth speaker with USB-C charging and up to 10 hours of playback
+TN-KEY-109,TechNest Compact Keyboard,Accessories,1790,In stock,12-month manufacturer warranty,Compact wireless keyboard with rechargeable battery and quiet keys
